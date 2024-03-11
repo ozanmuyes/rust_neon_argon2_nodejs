@@ -13,4 +13,6 @@ crate-type = ["cdylib"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-neon = "1"
+argon2 = "0.5.3"
+neon = { version = "1.0.0", features = ["napi-6"] }
+rand_core = { version = "0.6.4", features = ["getrandom"] }
