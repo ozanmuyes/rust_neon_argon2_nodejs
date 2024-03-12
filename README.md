@@ -119,3 +119,9 @@ To learn more about Neon, see the [Neon documentation](https://neon-bindings.com
 To learn more about Rust, see the [Rust documentation](https://www.rust-lang.org).
 
 To learn more about Node, see the [Node documentation](https://nodejs.org).
+
+## Building and testing
+
+Please see `index.js` to see what JavaScript code to run, and then;
+
+<script async id="asciicast-646536" src="https://asciinema.org/a/646536.js"></script>
