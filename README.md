@@ -124,4 +124,4 @@ To learn more about Node, see the [Node documentation](https://nodejs.org).
 
 Please see `index.js` to see what JavaScript code to run, and then;
 
-<script async id="asciicast-646536" src="https://asciinema.org/a/646536.js"></script>
+[![asciicast](https://asciinema.org/a/646536.svg)](https://asciinema.org/a/646536)
